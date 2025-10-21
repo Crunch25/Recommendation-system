@@ -1,0 +1,98 @@
+id,brand,model,price,storage,RAM,battery_capacity,weight,rating,description,Similarity
+13,Apple,iPhone 15 Pro,786,512,8,5688,165,4.2,Apple iPhone 15 Pro offers strong performance with great display and camera.,0.9765743712674146
+60,Realme,11 Pro+,721,256,8,5880,175,4.1,Realme 11 Pro+ offers strong performance with great display and camera.,0.927134229551079
+10,Huawei,P60 Pro,961,512,8,5371,164,4.7,Huawei P60 Pro offers strong performance with great display and camera.,0.9189647938283763
+19,Samsung,Galaxy S24,418,512,6,5310,168,4.2,Samsung Galaxy S24 offers strong performance with great display and camera.,0.8964824125628613
+93,OnePlus,10 Pro,466,512,12,5905,196,4.7,OnePlus 10 Pro offers strong performance with great display and camera.,0.8773820015348217
+59,Motorola,Edge 40 Pro,604,128,6,5551,186,4.7,Motorola Edge 40 Pro offers strong performance with great display and camera.,0.8717639206174981
+54,Motorola,Moto G Power,929,512,6,5884,207,4.2,Motorola Moto G Power offers strong performance with great display and camera.,0.8594990760327018
+53,Google,Pixel 8,959,128,6,5694,187,4.8,Google Pixel 8 offers strong performance with great display and camera.,0.856354260572605
+6,Motorola,Edge 40,748,128,6,5881,200,4.4,Motorola Edge 40 offers strong performance with great display and camera.,0.8553132934231716
+34,Samsung,Galaxy A54,604,1042,12,5938,170,3.9,Samsung Galaxy A54 offers strong performance with great display and camera.,0.8524524109573671
+1,Realme,GT Neo 5,998,512,6,5524,193,4.2,Realme GT Neo 5 offers strong performance with great display and camera.,0.8516911492292976
+91,Xiaomi,13,799,512,6,4347,163,4.3,Xiaomi 13 offers strong performance with great display and camera.,0.841599770949313
+82,Sony,Xperia 5 IV,965,1042,12,5192,212,4.5,Sony Xperia 5 IV offers strong performance with great display and camera.,0.8281703496950271
+58,Asus,ROG Phone 6,898,256,16,5331,165,4.8,Asus ROG Phone 6 offers strong performance with great display and camera.,0.8256961729934612
+77,Apple,iPhone 14,506,1042,8,4884,200,4.9,Apple iPhone 14 offers strong performance with great display and camera.,0.8204284024817662
+64,Samsung,Galaxy S23,1030,512,12,5757,205,4.0,Samsung Galaxy S23 offers strong performance with great display and camera.,0.816212698673114
+83,Apple,iPhone 15 Pro,1093,512,6,5020,203,4.5,Apple iPhone 15 Pro offers strong performance with great display and camera.,0.8067492262707492
+23,Samsung,Galaxy A54,959,1042,8,5390,207,4.0,Samsung Galaxy A54 offers strong performance with great display and camera.,0.8050893503429322
+36,Motorola,Edge 40,665,256,8,4790,208,4.9,Motorola Edge 40 offers strong performance with great display and camera.,0.7976825367644537
+72,OnePlus,12,1286,1042,8,5162,181,4.4,OnePlus 12 offers strong performance with great display and camera.,0.7975685811278622
+88,Huawei,Mate 50 Pro,930,128,6,4801,167,4.4,Huawei Mate 50 Pro offers strong performance with great display and camera.,0.7940296785092674
+97,Huawei,P60 Pro,758,512,16,4715,174,4.6,Huawei P60 Pro offers strong performance with great display and camera.,0.7907459066403548
+56,Huawei,Nova 11 Ultra,622,128,12,5092,174,3.9,Huawei Nova 11 Ultra offers strong performance with great display and camera.,0.7905244131082608
+86,Samsung,Galaxy A54,772,256,16,5542,218,4.9,Samsung Galaxy A54 offers strong performance with great display and camera.,0.7900195804013752
+65,Motorola,Edge 40 Pro,743,256,12,5963,201,3.7,Motorola Edge 40 Pro offers strong performance with great display and camera.,0.7790467097822775
+90,Google,Pixel 8 Pro,790,512,12,5031,164,3.6,Google Pixel 8 Pro offers strong performance with great display and camera.,0.7783598621125104
+35,Motorola,Edge 40,598,128,6,5989,197,3.8,Motorola Edge 40 offers strong performance with great display and camera.,0.7765859850299207
+32,Asus,Zenfone 10,912,1042,8,4396,171,4.2,Asus Zenfone 10 offers strong performance with great display and camera.,0.7747473336612847
+57,Sony,Xperia 5 IV,1074,256,6,5110,170,4.1,Sony Xperia 5 IV offers strong performance with great display and camera.,0.7711612714858184
+17,Motorola,Edge 40 Pro,1189,1042,12,5899,237,4.0,Motorola Edge 40 Pro offers strong performance with great display and camera.,0.7663530308585083
+79,Sony,Xperia 5 IV,951,128,8,5651,183,3.7,Sony Xperia 5 IV offers strong performance with great display and camera.,0.7587356342175905
+46,Google,Pixel 8 Pro,1114,1042,12,4389,160,4.4,Google Pixel 8 Pro offers strong performance with great display and camera.,0.7579018179162005
+67,Motorola,Edge 40,1283,512,12,5140,222,4.6,Motorola Edge 40 offers strong performance with great display and camera.,0.755350401643661
+70,Google,Pixel 8,1269,1042,12,4731,238,4.8,Google Pixel 8 offers strong performance with great display and camera.,0.7376302391655647
+66,OnePlus,Nord 3,1390,1042,6,5549,164,3.8,OnePlus Nord 3 offers strong performance with great display and camera.,0.7287184108855
+5,Apple,iPhone 14,619,1042,12,5260,202,3.6,Apple iPhone 14 offers strong performance with great display and camera.,0.7285031725301916
+48,Sony,Xperia 10 V,1166,256,8,5052,196,4.1,Sony Xperia 10 V offers strong performance with great display and camera.,0.7247229232718674
+50,Motorola,Edge 40,722,256,12,4773,231,4.9,Motorola Edge 40 offers strong performance with great display and camera.,0.7245548267846704
+84,Huawei,Nova 11 Ultra,521,512,8,3745,163,4.7,Huawei Nova 11 Ultra offers strong performance with great display and camera.,0.7162977757534673
+87,Huawei,Mate 50 Pro,890,128,16,4539,163,4.7,Huawei Mate 50 Pro offers strong performance with great display and camera.,0.7152056898271393
+99,Xiaomi,12 Pro,1491,512,16,4735,196,4.9,Xiaomi 12 Pro offers strong performance with great display and camera.,0.7147360995224955
+94,OnePlus,11,691,1042,8,3855,181,4.5,OnePlus 11 offers strong performance with great display and camera.,0.7143835935418045
+98,Huawei,P60 Pro,704,128,16,5012,169,4.1,Huawei P60 Pro offers strong performance with great display and camera.,0.7117001645773487
+74,Sony,Xperia 1 V,433,128,12,4567,170,4.2,Sony Xperia 1 V offers strong performance with great display and camera.,0.7094778147218538
+78,Huawei,Nova 11 Ultra,1297,512,16,5627,174,3.7,Huawei Nova 11 Ultra offers strong performance with great display and camera.,0.7070268627647884
+22,Motorola,Edge 40 Pro,611,1042,8,4624,230,4.4,Motorola Edge 40 Pro offers strong performance with great display and camera.,0.7062249584099674
+41,Huawei,Nova 11 Ultra,1161,1042,16,4711,240,4.5,Huawei Nova 11 Ultra offers strong performance with great display and camera.,0.703901528344396
+21,Google,Pixel 7 Pro,1201,512,6,5671,240,4.0,Google Pixel 7 Pro offers strong performance with great display and camera.,0.7030366462448969
+95,Motorola,Moto G Power,849,1042,12,4907,187,3.5,Motorola Moto G Power offers strong performance with great display and camera.,0.6969578154051286
+11,Asus,ROG Phone 7,517,256,16,5671,234,4.5,Asus ROG Phone 7 offers strong performance with great display and camera.,0.6957495309812406
+68,OnePlus,12,484,512,6,4588,223,4.5,OnePlus 12 offers strong performance with great display and camera.,0.6876396337360032
+92,Motorola,Edge 40,681,1042,8,4377,240,4.6,Motorola Edge 40 offers strong performance with great display and camera.,0.6781097729602911
+27,Samsung,Galaxy A54,431,128,16,5083,204,4.8,Samsung Galaxy A54 offers strong performance with great display and camera.,0.6709217464201305
+28,Huawei,P60 Pro,1320,512,16,5695,238,3.8,Huawei P60 Pro offers strong performance with great display and camera.,0.6694114126507442
+69,Motorola,Moto G Power,1098,256,12,5042,175,3.6,Motorola Moto G Power offers strong performance with great display and camera.,0.6680362462080865
+49,Sony,Xperia 1 V,1046,512,16,4072,212,4.7,Sony Xperia 1 V offers strong performance with great display and camera.,0.6668103297241548
+62,Asus,ROG Phone 7,1385,256,12,4275,161,4.7,Asus ROG Phone 7 offers strong performance with great display and camera.,0.6643996025273172
+38,Xiaomi,Redmi Note 12,1478,128,16,5132,164,4.3,Xiaomi Redmi Note 12 offers strong performance with great display and camera.,0.6632015113667783
+15,Google,Pixel 8 Pro,826,512,8,3935,231,4.9,Google Pixel 8 Pro offers strong performance with great display and camera.,0.6562205049182487
+85,Motorola,Edge 40 Pro,1217,1042,8,3993,216,4.4,Motorola Edge 40 Pro offers strong performance with great display and camera.,0.6537085667663367
+80,Samsung,Galaxy Z Fold5,1367,256,8,4860,172,4.0,Samsung Galaxy Z Fold5 offers strong performance with great display and camera.,0.651767596353299
+14,Sony,Xperia 1 V,961,512,6,5127,225,3.6,Sony Xperia 1 V offers strong performance with great display and camera.,0.6483073397866361
+51,Google,Pixel 8 Pro,1205,256,6,4890,221,4.1,Google Pixel 8 Pro offers strong performance with great display and camera.,0.6447059026968405
+96,Sony,Xperia 10 V,950,128,12,4998,178,3.5,Sony Xperia 10 V offers strong performance with great display and camera.,0.63821589547616
+63,Motorola,Edge 40 Pro,1498,512,12,3958,168,4.6,Motorola Edge 40 Pro offers strong performance with great display and camera.,0.6306075185849405
+31,Motorola,Moto G Power,1280,128,8,4420,235,4.9,Motorola Moto G Power offers strong performance with great display and camera.,0.6298282839680134
+12,Realme,GT 3,704,512,6,4276,224,4.0,Realme GT 3 offers strong performance with great display and camera.,0.6237626199991306
+75,OnePlus,Nord 3,441,1042,12,3812,213,4.9,OnePlus Nord 3 offers strong performance with great display and camera.,0.6132240298054127
+8,Sony,Xperia 1 V,834,128,8,3911,212,4.5,Sony Xperia 1 V offers strong performance with great display and camera.,0.6079810312600367
+37,Motorola,Moto G Power,1500,512,8,4529,172,3.9,Motorola Moto G Power offers strong performance with great display and camera.,0.6052962270002589
+4,Realme,GT 3,1213,128,6,4103,195,4.5,Realme GT 3 offers strong performance with great display and camera.,0.6027334576058058
+25,Google,Pixel 7 Pro,1420,512,6,3918,216,4.7,Google Pixel 7 Pro offers strong performance with great display and camera.,0.6022860447680732
+30,Samsung,Galaxy S23,1029,1042,8,3870,239,4.3,Samsung Galaxy S23 offers strong performance with great display and camera.,0.6017949831944021
+18,Google,Pixel 7 Pro,591,512,6,5422,235,3.5,Google Pixel 7 Pro offers strong performance with great display and camera.,0.5966369862203498
+33,OnePlus,12,1337,512,6,4484,164,3.7,OnePlus 12 offers strong performance with great display and camera.,0.5883818298358623
+26,Motorola,Moto G Power,1419,512,6,3571,200,4.8,Motorola Moto G Power offers strong performance with great display and camera.,0.5806383930710548
+55,Asus,ROG Phone 7,676,128,16,3989,166,4.2,Asus ROG Phone 7 offers strong performance with great display and camera.,0.5631769929613311
+52,Asus,Zenfone 10,696,256,8,3873,167,3.5,Asus Zenfone 10 offers strong performance with great display and camera.,0.5626959172847483
+20,Realme,GT Neo 5,719,256,8,4136,231,4.1,Realme GT Neo 5 offers strong performance with great display and camera.,0.5599264774848817
+76,Realme,11 Pro+,1248,128,6,4135,190,4.1,Realme 11 Pro+ offers strong performance with great display and camera.,0.5526215499161582
+16,Google,Pixel 8 Pro,1220,1042,8,4137,223,3.6,Google Pixel 8 Pro offers strong performance with great display and camera.,0.5493442559188958
+43,OnePlus,Nord 3,941,256,12,4501,231,3.7,OnePlus Nord 3 offers strong performance with great display and camera.,0.5484392389558196
+89,Apple,iPhone 14,1480,256,8,3600,234,4.9,Apple iPhone 14 offers strong performance with great display and camera.,0.5468883959421341
+47,Asus,Zenfone 10,1253,256,16,4572,223,3.7,Asus Zenfone 10 offers strong performance with great display and camera.,0.5401646674437701
+100,Xiaomi,13 Pro,721,1042,6,3889,236,4.0,Xiaomi 13 Pro offers strong performance with great display and camera.,0.5295491860929434
+9,Google,Pixel 7,1451,256,12,3987,237,4.2,Google Pixel 7 offers strong performance with great display and camera.,0.5213228327807412
+73,Sony,Xperia 5 IV,1175,256,8,3979,173,3.7,Sony Xperia 5 IV offers strong performance with great display and camera.,0.5192045956901555
+29,Motorola,Edge 40 Pro,915,256,8,4313,211,3.5,Motorola Edge 40 Pro offers strong performance with great display and camera.,0.5187790267335468
+39,Realme,GT Neo 5,437,256,16,3800,211,4.9,Realme GT Neo 5 offers strong performance with great display and camera.,0.5125508700034759
+7,Asus,Zenfone 10,626,128,6,3835,239,4.9,Asus Zenfone 10 offers strong performance with great display and camera.,0.5016655163577505
+24,Huawei,Mate 50 Pro,972,128,12,3970,195,3.7,Huawei Mate 50 Pro offers strong performance with great display and camera.,0.4988940109965415
+2,Samsung,Galaxy Z Fold5,862,256,16,3718,213,4.1,Samsung Galaxy Z Fold5 offers strong performance with great display and camera.,0.4983856791279793
+42,Sony,Xperia 10 V,813,256,6,3638,237,4.5,Sony Xperia 10 V offers strong performance with great display and camera.,0.49460113684736723
+3,Huawei,Nova 11 Ultra,1445,256,16,3970,208,3.8,Huawei Nova 11 Ultra offers strong performance with great display and camera.,0.48690462819713193
+71,Asus,Zenfone 10,1493,512,8,3775,180,3.6,Asus Zenfone 10 offers strong performance with great display and camera.,0.4649954142564026
+45,Realme,11 Pro+,829,128,16,4042,201,3.6,Realme 11 Pro+ offers strong performance with great display and camera.,0.43638194643345557
+44,OnePlus,Nord 3,519,128,8,4089,199,3.5,OnePlus Nord 3 offers strong performance with great display and camera.,0.40911657964863146

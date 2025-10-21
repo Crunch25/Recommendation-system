@@ -1,0 +1,101 @@
+id,brand,model,price,storage,RAM,battery_capacity,weight,rating,description
+19,Samsung,Galaxy S24,418,512GB,6GB,5310mAh,168g,4.2,Samsung Galaxy S24 offers strong performance with great display and camera.
+27,Samsung,Galaxy A54,431,128GB,16GB,5083mAh,204g,4.8,Samsung Galaxy A54 offers strong performance with great display and camera.
+74,Sony,Xperia 1 V,433,128GB,12GB,4567mAh,170g,4.2,Sony Xperia 1 V offers strong performance with great display and camera.
+39,Realme,GT Neo 5,437,256GB,16GB,3800mAh,211g,4.9,Realme GT Neo 5 offers strong performance with great display and camera.
+75,OnePlus,Nord 3,441,1TB,12GB,3812mAh,213g,4.9,OnePlus Nord 3 offers strong performance with great display and camera.
+93,OnePlus,10 Pro,466,512GB,12GB,5905mAh,196g,4.7,OnePlus 10 Pro offers strong performance with great display and camera.
+68,OnePlus,12,484,512GB,6GB,4588mAh,223g,4.5,OnePlus 12 offers strong performance with great display and camera.
+77,Apple,iPhone 14,506,1TB,8GB,4884mAh,200g,4.9,Apple iPhone 14 offers strong performance with great display and camera.
+11,Asus,ROG Phone 7,517,256GB,16GB,5671mAh,234g,4.5,Asus ROG Phone 7 offers strong performance with great display and camera.
+44,OnePlus,Nord 3,519,128GB,8GB,4089mAh,199g,3.5,OnePlus Nord 3 offers strong performance with great display and camera.
+84,Huawei,Nova 11 Ultra,521,512GB,8GB,3745mAh,163g,4.7,Huawei Nova 11 Ultra offers strong performance with great display and camera.
+18,Google,Pixel 7 Pro,591,512GB,6GB,5422mAh,235g,3.5,Google Pixel 7 Pro offers strong performance with great display and camera.
+35,Motorola,Edge 40,598,128GB,6GB,5989mAh,197g,3.8,Motorola Edge 40 offers strong performance with great display and camera.
+34,Samsung,Galaxy A54,604,1TB,12GB,5938mAh,170g,3.9,Samsung Galaxy A54 offers strong performance with great display and camera.
+59,Motorola,Edge 40 Pro,604,128GB,6GB,5551mAh,186g,4.7,Motorola Edge 40 Pro offers strong performance with great display and camera.
+22,Motorola,Edge 40 Pro,611,1TB,8GB,4624mAh,230g,4.4,Motorola Edge 40 Pro offers strong performance with great display and camera.
+5,Apple,iPhone 14,619,1TB,12GB,5260mAh,202g,3.6,Apple iPhone 14 offers strong performance with great display and camera.
+56,Huawei,Nova 11 Ultra,622,128GB,12GB,5092mAh,174g,3.9,Huawei Nova 11 Ultra offers strong performance with great display and camera.
+7,Asus,Zenfone 10,626,128GB,6GB,3835mAh,239g,4.9,Asus Zenfone 10 offers strong performance with great display and camera.
+81,Apple,iPhone 15,655,512GB,8GB,5662mAh,162g,4.4,Apple iPhone 15 offers strong performance with great display and camera.
+36,Motorola,Edge 40,665,256GB,8GB,4790mAh,208g,4.9,Motorola Edge 40 offers strong performance with great display and camera.
+55,Asus,ROG Phone 7,676,128GB,16GB,3989mAh,166g,4.2,Asus ROG Phone 7 offers strong performance with great display and camera.
+92,Motorola,Edge 40,681,1TB,8GB,4377mAh,240g,4.6,Motorola Edge 40 offers strong performance with great display and camera.
+94,OnePlus,11,691,1TB,8GB,3855mAh,181g,4.5,OnePlus 11 offers strong performance with great display and camera.
+52,Asus,Zenfone 10,696,256GB,8GB,3873mAh,167g,3.5,Asus Zenfone 10 offers strong performance with great display and camera.
+12,Realme,GT 3,704,512GB,6GB,4276mAh,224g,4.0,Realme GT 3 offers strong performance with great display and camera.
+98,Huawei,P60 Pro,704,128GB,16GB,5012mAh,169g,4.1,Huawei P60 Pro offers strong performance with great display and camera.
+20,Realme,GT Neo 5,719,256GB,8GB,4136mAh,231g,4.1,Realme GT Neo 5 offers strong performance with great display and camera.
+60,Realme,11 Pro+,721,256GB,8GB,5880mAh,175g,4.1,Realme 11 Pro+ offers strong performance with great display and camera.
+100,Xiaomi,13 Pro,721,1TB,6GB,3889mAh,236g,4.0,Xiaomi 13 Pro offers strong performance with great display and camera.
+50,Motorola,Edge 40,722,256GB,12GB,4773mAh,231g,4.9,Motorola Edge 40 offers strong performance with great display and camera.
+65,Motorola,Edge 40 Pro,743,256GB,12GB,5963mAh,201g,3.7,Motorola Edge 40 Pro offers strong performance with great display and camera.
+6,Motorola,Edge 40,748,128GB,6GB,5881mAh,200g,4.4,Motorola Edge 40 offers strong performance with great display and camera.
+97,Huawei,P60 Pro,758,512GB,16GB,4715mAh,174g,4.6,Huawei P60 Pro offers strong performance with great display and camera.
+86,Samsung,Galaxy A54,772,256GB,16GB,5542mAh,218g,4.9,Samsung Galaxy A54 offers strong performance with great display and camera.
+13,Apple,iPhone 15 Pro,786,512GB,8GB,5688mAh,165g,4.2,Apple iPhone 15 Pro offers strong performance with great display and camera.
+90,Google,Pixel 8 Pro,790,512GB,12GB,5031mAh,164g,3.6,Google Pixel 8 Pro offers strong performance with great display and camera.
+91,Xiaomi,13,799,512GB,6GB,4347mAh,163g,4.3,Xiaomi 13 offers strong performance with great display and camera.
+42,Sony,Xperia 10 V,813,256GB,6GB,3638mAh,237g,4.5,Sony Xperia 10 V offers strong performance with great display and camera.
+15,Google,Pixel 8 Pro,826,512GB,8GB,3935mAh,231g,4.9,Google Pixel 8 Pro offers strong performance with great display and camera.
+45,Realme,11 Pro+,829,128GB,16GB,4042mAh,201g,3.6,Realme 11 Pro+ offers strong performance with great display and camera.
+8,Sony,Xperia 1 V,834,128GB,8GB,3911mAh,212g,4.5,Sony Xperia 1 V offers strong performance with great display and camera.
+95,Motorola,Moto G Power,849,1TB,12GB,4907mAh,187g,3.5,Motorola Moto G Power offers strong performance with great display and camera.
+2,Samsung,Galaxy Z Fold5,862,256GB,16GB,3718mAh,213g,4.1,Samsung Galaxy Z Fold5 offers strong performance with great display and camera.
+87,Huawei,Mate 50 Pro,890,128GB,16GB,4539mAh,163g,4.7,Huawei Mate 50 Pro offers strong performance with great display and camera.
+58,Asus,ROG Phone 6,898,256GB,16GB,5331mAh,165g,4.8,Asus ROG Phone 6 offers strong performance with great display and camera.
+32,Asus,Zenfone 10,912,1TB,8GB,4396mAh,171g,4.2,Asus Zenfone 10 offers strong performance with great display and camera.
+29,Motorola,Edge 40 Pro,915,256GB,8GB,4313mAh,211g,3.5,Motorola Edge 40 Pro offers strong performance with great display and camera.
+54,Motorola,Moto G Power,929,512GB,6GB,5884mAh,207g,4.2,Motorola Moto G Power offers strong performance with great display and camera.
+88,Huawei,Mate 50 Pro,930,128GB,6GB,4801mAh,167g,4.4,Huawei Mate 50 Pro offers strong performance with great display and camera.
+43,OnePlus,Nord 3,941,256GB,12GB,4501mAh,231g,3.7,OnePlus Nord 3 offers strong performance with great display and camera.
+96,Sony,Xperia 10 V,950,128GB,12GB,4998mAh,178g,3.5,Sony Xperia 10 V offers strong performance with great display and camera.
+79,Sony,Xperia 5 IV,951,128GB,8GB,5651mAh,183g,3.7,Sony Xperia 5 IV offers strong performance with great display and camera.
+23,Samsung,Galaxy A54,959,1TB,8GB,5390mAh,207g,4.0,Samsung Galaxy A54 offers strong performance with great display and camera.
+53,Google,Pixel 8,959,128GB,6GB,5694mAh,187g,4.8,Google Pixel 8 offers strong performance with great display and camera.
+10,Huawei,P60 Pro,961,512GB,8GB,5371mAh,164g,4.7,Huawei P60 Pro offers strong performance with great display and camera.
+14,Sony,Xperia 1 V,961,512GB,6GB,5127mAh,225g,3.6,Sony Xperia 1 V offers strong performance with great display and camera.
+82,Sony,Xperia 5 IV,965,1TB,12GB,5192mAh,212g,4.5,Sony Xperia 5 IV offers strong performance with great display and camera.
+24,Huawei,Mate 50 Pro,972,128GB,12GB,3970mAh,195g,3.7,Huawei Mate 50 Pro offers strong performance with great display and camera.
+1,Realme,GT Neo 5,998,512GB,6GB,5524mAh,193g,4.2,Realme GT Neo 5 offers strong performance with great display and camera.
+30,Samsung,Galaxy S23,1029,1TB,8GB,3870mAh,239g,4.3,Samsung Galaxy S23 offers strong performance with great display and camera.
+64,Samsung,Galaxy S23,1030,512GB,12GB,5757mAh,205g,4.0,Samsung Galaxy S23 offers strong performance with great display and camera.
+49,Sony,Xperia 1 V,1046,512GB,16GB,4072mAh,212g,4.7,Sony Xperia 1 V offers strong performance with great display and camera.
+57,Sony,Xperia 5 IV,1074,256GB,6GB,5110mAh,170g,4.1,Sony Xperia 5 IV offers strong performance with great display and camera.
+83,Apple,iPhone 15 Pro,1093,512GB,6GB,5020mAh,203g,4.5,Apple iPhone 15 Pro offers strong performance with great display and camera.
+69,Motorola,Moto G Power,1098,256GB,12GB,5042mAh,175g,3.6,Motorola Moto G Power offers strong performance with great display and camera.
+46,Google,Pixel 8 Pro,1114,1TB,12GB,4389mAh,160g,4.4,Google Pixel 8 Pro offers strong performance with great display and camera.
+41,Huawei,Nova 11 Ultra,1161,1TB,16GB,4711mAh,240g,4.5,Huawei Nova 11 Ultra offers strong performance with great display and camera.
+48,Sony,Xperia 10 V,1166,256GB,8GB,5052mAh,196g,4.1,Sony Xperia 10 V offers strong performance with great display and camera.
+73,Sony,Xperia 5 IV,1175,256GB,8GB,3979mAh,173g,3.7,Sony Xperia 5 IV offers strong performance with great display and camera.
+17,Motorola,Edge 40 Pro,1189,1TB,12GB,5899mAh,237g,4.0,Motorola Edge 40 Pro offers strong performance with great display and camera.
+21,Google,Pixel 7 Pro,1201,512GB,6GB,5671mAh,240g,4.0,Google Pixel 7 Pro offers strong performance with great display and camera.
+51,Google,Pixel 8 Pro,1205,256GB,6GB,4890mAh,221g,4.1,Google Pixel 8 Pro offers strong performance with great display and camera.
+4,Realme,GT 3,1213,128GB,6GB,4103mAh,195g,4.5,Realme GT 3 offers strong performance with great display and camera.
+85,Motorola,Edge 40 Pro,1217,1TB,8GB,3993mAh,216g,4.4,Motorola Edge 40 Pro offers strong performance with great display and camera.
+16,Google,Pixel 8 Pro,1220,1TB,8GB,4137mAh,223g,3.6,Google Pixel 8 Pro offers strong performance with great display and camera.
+76,Realme,11 Pro+,1248,128GB,6GB,4135mAh,190g,4.1,Realme 11 Pro+ offers strong performance with great display and camera.
+47,Asus,Zenfone 10,1253,256GB,16GB,4572mAh,223g,3.7,Asus Zenfone 10 offers strong performance with great display and camera.
+70,Google,Pixel 8,1269,1TB,12GB,4731mAh,238g,4.8,Google Pixel 8 offers strong performance with great display and camera.
+31,Motorola,Moto G Power,1280,128GB,8GB,4420mAh,235g,4.9,Motorola Moto G Power offers strong performance with great display and camera.
+67,Motorola,Edge 40,1283,512GB,12GB,5140mAh,222g,4.6,Motorola Edge 40 offers strong performance with great display and camera.
+72,OnePlus,12,1286,1TB,8GB,5162mAh,181g,4.4,OnePlus 12 offers strong performance with great display and camera.
+78,Huawei,Nova 11 Ultra,1297,512GB,16GB,5627mAh,174g,3.7,Huawei Nova 11 Ultra offers strong performance with great display and camera.
+28,Huawei,P60 Pro,1320,512GB,16GB,5695mAh,238g,3.8,Huawei P60 Pro offers strong performance with great display and camera.
+33,OnePlus,12,1337,512GB,6GB,4484mAh,164g,3.7,OnePlus 12 offers strong performance with great display and camera.
+80,Samsung,Galaxy Z Fold5,1367,256GB,8GB,4860mAh,172g,4.0,Samsung Galaxy Z Fold5 offers strong performance with great display and camera.
+62,Asus,ROG Phone 7,1385,256GB,12GB,4275mAh,161g,4.7,Asus ROG Phone 7 offers strong performance with great display and camera.
+66,OnePlus,Nord 3,1390,1TB,6GB,5549mAh,164g,3.8,OnePlus Nord 3 offers strong performance with great display and camera.
+26,Motorola,Moto G Power,1419,512GB,6GB,3571mAh,200g,4.8,Motorola Moto G Power offers strong performance with great display and camera.
+25,Google,Pixel 7 Pro,1420,512GB,6GB,3918mAh,216g,4.7,Google Pixel 7 Pro offers strong performance with great display and camera.
+3,Huawei,Nova 11 Ultra,1445,256GB,16GB,3970mAh,208g,3.8,Huawei Nova 11 Ultra offers strong performance with great display and camera.
+9,Google,Pixel 7,1451,256GB,12GB,3987mAh,237g,4.2,Google Pixel 7 offers strong performance with great display and camera.
+38,Xiaomi,Redmi Note 12,1478,128GB,16GB,5132mAh,164g,4.3,Xiaomi Redmi Note 12 offers strong performance with great display and camera.
+89,Apple,iPhone 14,1480,256GB,8GB,3600mAh,234g,4.9,Apple iPhone 14 offers strong performance with great display and camera.
+61,Apple,iPhone 15,1490,256GB,6GB,5174mAh,187g,4.9,Apple iPhone 15 offers strong performance with great display and camera.
+99,Xiaomi,12 Pro,1491,512GB,16GB,4735mAh,196g,4.9,Xiaomi 12 Pro offers strong performance with great display and camera.
+71,Asus,Zenfone 10,1493,512GB,8GB,3775mAh,180g,3.6,Asus Zenfone 10 offers strong performance with great display and camera.
+40,Apple,iPhone 15,1497,512GB,8GB,3773mAh,226g,4.4,Apple iPhone 15 offers strong performance with great display and camera.
+63,Motorola,Edge 40 Pro,1498,512GB,12GB,3958mAh,168g,4.6,Motorola Edge 40 Pro offers strong performance with great display and camera.
+37,Motorola,Moto G Power,1500,512GB,8GB,4529mAh,172g,3.9,Motorola Moto G Power offers strong performance with great display and camera.
